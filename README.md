@@ -3,6 +3,8 @@
 First file is the counter.js and it contains steps 2 and 3.
 Files task4 - task10.js contains steps 4 - 10 ( incrementally to show the progress of the code)
 
+- Each file is run independently howeever, task4.js and task5.js accesses modules from counter.js
+
 # Task 1.1
 
 What I think the main challenges implementing Counter Factory would be be include:
